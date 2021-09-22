@@ -13,9 +13,9 @@ console.log("Hello! Your BMI value is "+ bmi);
 //安裝 readline-sync 套件指令: npm install readline-sync
 //另可透過package.json指定所有相關套件後 npm install 即可安裝所有套件
 
-const readline = require('readline-sync');
-weight = readline.question('請輸入您的體重(kg)?');
-height = readline.question('請輸入您的身高(cm)?');  
+// const readline = require('readline-sync');
+// weight = readline.question('請輸入您的體重(kg)?');
+// height = readline.question('請輸入您的身高(cm)?');  
 
 
 //not only bmi value, but also judgement
